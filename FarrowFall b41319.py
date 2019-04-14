@@ -168,33 +168,33 @@ zonemap = {
         Right: 'b2',
     },
     'b2' : {
-        ZONENAME: 'Home'
-        DESCRIPTION = 'This is your home.'
-        EXAMINATION = 'Nothing appears out of place.'
-        SOLVED = False
-        Up = 'a2'
-        Down = 'c2'
-        Left = 'b1'
-        Right = 'b3'
+        ZONENAME: 'Home',
+        DESCRIPTION: 'This is your home.',
+        EXAMINATION: 'Nothing appears out of place.',
+        SOLVED: False,
+        Up: 'a2',
+        Down: 'c2',
+        Left: 'b1',
+        Right: 'b3',
     },
     'b3' : {
-        ZONENAME: ''
-        DESCRIPTION = 'description'
-        EXAMINATION = 'examine'
-        SOLVED = False
-        Up = 'up', 'north'
-        Down = 'down', 'south'
-        Left = 'left', 'west'
-        Right = 'right', 'east'
+        ZONENAME: '',
+        DESCRIPTION: 'description',
+        EXAMINATION: 'examine',
+        SOLVED: False,
+        Up: 'a3',
+        Down: 'c3',
+        Left: 'b2',
+        Right: 'b4',
     },
     'b4' : {
-        ZONENAME: ''
-        DESCRIPTION = 'description'
-        EXAMINATION = 'examine'
-        SOLVED = False
-        Up = 'up', 'north'
-        Down = 'down', 'south'
-        Left = 'left', 'west'
+        ZONENAME: '',
+        DESCRIPTION: 'description',
+        EXAMINATION: 'examine',
+        SOLVED = False,
+        Up = 'a4',
+        Down = 'c4'
+        Left = 'c3'
         Right = 'right', 'east'
     },
     'c1' : {
